@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mac1175.github.com/blog/sitemap.xml 
